@@ -28,7 +28,7 @@ Make sure to set up your database configuration in the code:
 
 Database URL: jdbc:mysql://localhost:3306/use your database
 Username: root
-Password: your_password
+Password: your_password(connection password) 
 The SQL scripts to create the necessary tables 
 (accounts and transactions) are provided in the 
 database_scripts directory
