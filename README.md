@@ -2,6 +2,7 @@ Banking Management System
 
 This is a simple banking management system implemented in Java. It provides basic functionalities such as creating accounts, logging in, performing transactions, viewing account balance, and viewing transaction history.
 
+
 FEATURES
 
 
